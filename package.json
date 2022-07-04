@@ -1,0 +1,11 @@
+{
+  "name": "maratona_explorer_2.0",
+  "version": "1.0.0",
+  "description": "Rocketseat -> Maratona Explorer 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sávio Moreira de Moraes",
+  "license": "ISC"
+}
